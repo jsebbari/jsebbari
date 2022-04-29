@@ -6,7 +6,7 @@
  
 🌱 I’m currently learning **Typescript, NextJS**
 
-🔭 I’m currently working on <a href="https://github.com/jsebbari/jsitineraire">Js itineraire (portfolio)</a>)
+🔭 I’m currently working on <a href="https://github.com/jsebbari/jsitineraire">Js itineraire (portfolio)</a>
 
 💬 Ask me about **react, express**
  </div>
