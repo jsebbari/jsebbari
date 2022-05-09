@@ -3,7 +3,7 @@
 
 
 <div align="center">
- <a   href="http://jsitineraire.fr" target="_blank" rel="noreferrer">Clique ici pour voir mon portfolio</a>
+ <a   href="http://jsitineraire.fr" target="blank" rel="noreferrer">Clique ici pour voir mon portfolio</a>
  <p>🌱 Actuellement, je me forme sur NextJS** et **Typescript.</p>
 
 
