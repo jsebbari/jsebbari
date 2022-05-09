@@ -1,10 +1,10 @@
-<h1 align="center">Hey 👋, Je suis Jamal, développeur web fullstack</h1> 
-<a href="http://jsitineraire.fr">Clique ici pour voir mon portfolio</a>
+<h1 align="center">Hey 👋, je suis Jamal, développeur web fullstack</h1> 
+
 
 
 <div align="center">
- 
-🌱 Actuellement, je me forme sur NextJS** et **Typescript.
+ <a   href="http://jsitineraire.fr" target="_blank" rel="noreferrer">Clique ici pour voir mon portfolio</a>
+ <p>🌱 Actuellement, je me forme sur NextJS** et **Typescript.</p>
 
 
 
@@ -13,7 +13,7 @@
 
 <h3 align="center">Me contacter:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/jamal-sebbari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamal-se-881b01227" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jamal-sebbari/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamal-se-881b01227" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Langages et outils:</h3>
