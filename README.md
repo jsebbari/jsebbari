@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, je suis Jamal, développeur web fullstack</h1>
 <p align="center">👨‍💻 Retrouvez mon parcours et mes projets sur www.jsitineraire.fr </p>
 
-<p align="center">🌱 Actuellement, je me forme sur NextJS </p>
+<p align="center">🌱 Actuellement, je me forme sur Typescript </p>
 
 <h3 align="center">Me contacter:</h3>
 <p align="center">
